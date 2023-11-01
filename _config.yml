@@ -101,7 +101,11 @@ content:
         caption: 2016 - 2021
         sub_title: Ph.D. in Computer Engineering
         description: | # this will include new lines to allow paragraphs
-          <b>high</b>
+          <b>CGPA:</b> 3.82/4.00
+
+          <b>Dissertation:</b> Modeling and analysis of spreading processes over large networks from limited data.                                     
+
+          <b>Relevant Courese:</b> Scalability for data science, multivariate statistical methods, network theory, machine learning and pattern recognition, analysis of algorithms, agent-based game theory, applied probability theory, and random process.
 
   - title: A Little More About Me
     layout: text
