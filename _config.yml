@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Machine Learning</mark>, <mark>NetworkScience</mark>, <mark>Scalable Data Mining</mark>, <mark>High Performance Computing</mark>
 
 content:
-  - title: PROFESSIONAL EXPERIENCE # Title for the section
+  - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -64,6 +64,7 @@ content:
         caption: July 2021 - Present
         description: |
           - Lead a project with an interdisciplinary team of three members to deliver bi-weekly update on a detailed knowledge graph project to find the economic impact of under-vaccinated spatiotemporal clusters.
+          
              --	3TB high-dimensional APCD (All-Payer Claims database) healthcare data, ICD-10 code, data mining, foundation model, graph neural network, recurrent neural network.
           - Develop an abductive agent-based surveillance tool to understand the political opinion on a social contact network with millions of nodes in a distributed environment. 
              --	HPC (High-Performance Computing) system, pattern recognition, support vector machines, XGboost.
