@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Sifat A Moon
+title: Computational Research Engineer 
+email: sifatmoon@virgnia.edu
+website: https://www.linkedin.com/in/sifatafrojmoon/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Sifat Moon and I am an applied computational scientist and an ex-software engineer with a decade of experience in research and development. My background ranges from machine learning, graph theory, network science, data mining, and predictive modeling. I have pioneered several novel computational tools to model and analyze graph-based spreading processes. In my Ph.D. and postdoc, I became an expert in developing end-to-end solutions leveraging real-world data.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Machine Learning</mark>, <mark>Scalable Data Mining</mark>, <mark>High Performance Computing</mark>
 
 content:
   - title: Projects # Title for the section
