@@ -57,18 +57,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Network Systems Science and Advanced Computing division, Biocomplexity Institute, University of Virginia, Charlottesville, VA, USA                                                                                                      
-        link: boringcompany.com
+        title: Network Systems Science and Advanced Computing division, Biocomplexity Institute, University of Virginia                                                                                                
+        link: Charlottesville, VA, USA      
         # link_text: boringcompany.com
         sub_title: Postdoctoral Researcher 
         caption: July 2021 - Present
         description: |
           - Lead a project with an interdisciplinary team of three members to deliver bi-weekly update on a detailed knowledge graph project to find the economic impact of under-vaccinated spatiotemporal clusters.
-             #--	3TB high-dimensional APCD (All-Payer Claims database) healthcare data, ICD-10 code, data mining, foundation model, graph neural network, recurrent neural network.
+             --	3TB high-dimensional APCD (All-Payer Claims database) healthcare data, ICD-10 code, data mining, foundation model, graph neural network, recurrent neural network.
           - Develop an abductive agent-based surveillance tool to understand the political opinion on a social contact network with millions of nodes in a distributed environment. 
-            #--	HPC (High-Performance Computing) system, pattern recognition, support vector machines, XGboost.
+             --	HPC (High-Performance Computing) system, pattern recognition, support vector machines, XGboost.
           -	Build a graph neural network-based machine learning surrogate model for the agent-based simulation.
-            #--	Guide two junior scientists and more than four grad students.
+             --	Guide two junior scientists and more than four grad students.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
