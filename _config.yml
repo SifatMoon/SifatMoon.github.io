@@ -53,7 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Machine Learning</mark>, <mark>NetworkScience</mark>, <mark>Scalable Data Mining</mark>, <mark>High Performance Computing</mark>
 
 content:
-  
   - title: PROFESSIONAL EXPERIENCE # Title for the section
     layout: list # Type of content section (list/text)
     content:
