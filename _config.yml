@@ -73,21 +73,26 @@ content:
           
                --	Guide two junior scientists and more than four grad students.
       - layout: left
-        title: Network Systems Science and Advanced Computing division, Biocomplexity Institute, University of Virginia                                                                                                
-        link: Charlottesville, VA, USA      
+        title: Network Science and Engineering group, Kansas State University                                                                                               
+        link: Manhattan, KS, USA      
         # link_text: boringcompany.com
-        sub_title: Postdoctoral Researcher 
-        caption: July 2021 - Present
+        sub_title: Graduate Research Assistant
+        caption: Aug 2016 – May 2021
         description: |
-          - Lead a project with an interdisciplinary team of three members to deliver bi-weekly update on a detailed knowledge graph project to find the economic impact of under-vaccinated spatiotemporal clusters.
-          
-             --	3TB high-dimensional APCD (All-Payer Claims database) healthcare data, ICD-10 code, data mining, foundation model, graph neural network, recurrent neural network.
-          - Develop an abductive agent-based surveillance tool to understand the political opinion on a social contact network with millions of nodes in a distributed environment. 
-          
-             --	HPC (High-Performance Computing) system, pattern recognition, support vector machines, XGboost.
-          -	Build a graph neural network-based machine learning surrogate model for the agent-based simulation.
-          
-             --	Guide two junior scientists and more than four grad students.
+          - Designed a computationally efficient stochastic Monte Carlo simulation tool to understand the time-series local dynamics of the Markov spreading processes over large networks. 
+          - Modified and implemented approximate Bayesian computation based on sequential Monte Carlo (ABC SMC) sampling method for a stochastic individual-level multi-layer network system. 
+          -	Directed a project to estimate a movement network from NASS data using a maximum entropy reinforcement learning method to support data privacy. 
+
+      - layout: left
+        title: Samsung R&D Institute, Samsung Electronics, Samsung                                                                                              
+        link: Dhaka, BD     
+        # link_text: boringcompany.com
+        sub_title: Software Engineer 
+        caption: Aug 2013 – Aug 2016
+        description: |
+          - Optimized watercolor brush algorithm and pattern fill tools for the s-pen drawing bitmap engine of Galaxy Note5.
+          - Developed and deployed Allshare play/Samsung Link software for Windows Phone 8.1 and an initial version of quick-connect (a convergence app of Samsung).
+          -	Led a group of one software engineer and two interns for four months.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
